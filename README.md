@@ -26,20 +26,30 @@ bash
 git clone https://github.com/ahmedridox-create/ridox-scanner.git
 cd ridox-scanner
 2.Install the required dependencies:
+bash
+
+pip install -r requirements.txt
 
 bash
-pip install -r requirements.txt
-bash
+
 python3 -m venv .venv
+
 source .venv/bin/activate
+
 bash
 Run the tool:
 
+
 bash
+
 python3 ridox.py
+
 💻 Usage
+
 bash
+
 python3 ridox.py
+
 Enter the target URL (e.g., https://example.com).
 
 The scanner will automatically:
