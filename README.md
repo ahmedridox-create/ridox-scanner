@@ -65,3 +65,52 @@ By using this software, you agree that you are solely responsible for your actio
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
+2.Install the required dependencies:
+
+bash
+pip install -r requirements.txt
+(If you encounter externally-managed-environment, use a virtual environment:)
+
+bash
+python3 -m venv .venv
+source .venv/bin/activate
+3.Run the tool:
+
+bash
+python3 ridox.py
+💻 Usage
+bash
+python3 ridox.py
+Enter the target URL (e.g., https://example.com).
+
+The scanner will automatically:
+
+Check for WAF protection.
+
+Validate SSL certificates.
+
+Calibrate Soft 404 baselines.
+
+Scan for exposed sensitive files.
+
+Test for Reflected XSS (GET/POST).
+
+Check for SQL Injection errors.
+
+Type q to quit the scanner.
+
+⚠️ Legal Disclaimer & Warning
+THIS TOOL IS PROVIDED FOR EDUCATIONAL PURPOSES AND AUTHORIZED SECURITY TESTING ONLY.
+
+Do NOT use this tool on any website, server, or network that you do not own or have explicit, written permission to test.
+
+Unauthorized scanning, vulnerability testing, or exploitation is illegal in almost every jurisdiction and is a punishable criminal offense (e.g., under the Computer Fraud and Abuse Act, and local cybercrime laws).
+
+The author (R i d o x / Ahmed) assumes no liability and is not responsible for any misuse, damage, or legal consequences caused by this program.
+
+By using this software, you agree that you are solely responsible for your actions and that you will comply with all applicable local and international laws.
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+
+Created with ❤️ by Ahmed (R i d o x)
