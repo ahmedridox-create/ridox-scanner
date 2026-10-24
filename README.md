@@ -81,5 +81,4 @@ By using this software, you agree that you are solely responsible for your actio
 
 Created with ❤️ by Ahmed (R i d o x)
 
-text
-This response is AI-generated, for reference only.
+
