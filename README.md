@@ -22,17 +22,18 @@ Unlike traditional scanners that produce dozens of false positives, **R i d o x*
    cd ridox-scanner
    Install the required dependencies:
 
-bash
-pip install -r requirements.txt
-(If you encounter externally-managed-environment, use a virtual environment: python3 -m venv .venv && source .venv/bin/activate)
+   ```bash
+   pip install -r requirements.txt
+(If you encounter externally-managed-environment, use a virtual environment: python3 -m venv .venv && source .venv/bin/activate):
 
 Run the tool:
 
-bash
-python3 ridox.py
+   ```bash
+    python3 ridox.py
+
 💻 Usage
-bash
-python3 ridox.py
+   ```bash 
+   python3 ridox.py
 Enter the target URL (e.g., https://example.com).
 
 The scanner will automatically:
