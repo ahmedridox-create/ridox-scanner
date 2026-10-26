@@ -78,6 +78,8 @@ Unauthorized scanning, vulnerability testing, or exploitation is illegal in almo
 The author (R i d o x / Ahmed) assumes no liability and is not responsible for any misuse, damage, or legal consequences caused by this program.
 
 By using this software, you agree that you are solely responsible for your actions and that you will comply with all applicable local and international laws.
+<img width="1263" height="862" alt="image" src="https://github.com/user-attachments/assets/d2d820d1-f945-4f9b-81f6-5e72a2e07003" />
+
 
 Created with ❤️ by Ahmed (R i d o x)
 
